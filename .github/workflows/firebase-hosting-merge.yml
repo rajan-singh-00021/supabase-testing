@@ -20,3 +20,5 @@ jobs:
           projectId: hoc-ui
         env:
           FIREBASE_CLI_EXPERIMENTS: webframeworks
+          NEXT_PUBLIC_SUPABASE_URL: https://ikkhhjbbuccysqcqrnug.supabase.co
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imlra2hoamJidWNjeXNxY3FybnVnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzYzODg4MDIsImV4cCI6MjA1MTk2NDgwMn0.c8hX2X0Zg_THuwLLXPb9t16SHSS_GQx_eeEXpgu2b1U
